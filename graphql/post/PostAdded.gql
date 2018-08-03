@@ -1,0 +1,8 @@
+subscription postAdded{
+    postAdded {
+      id
+      title
+      content
+      published
+    }
+  }
