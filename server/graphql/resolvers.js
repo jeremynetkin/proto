@@ -5,12 +5,17 @@ export const pubsub = new PubSub();
 
 const posts = []
 const POST_ADDED = 'POST_ADDED';
+const POST_UPDATED = 'POST_UPDATED';
 
 const resolvers = {
     Subscription: {
         postAdded: {
             // Additional event labels can be passed to asyncIterator creation
             subscribe:  (parent, args) => pubsub.asyncIterator([POST_ADDED]),
+        },
+        postUpdated: {
+            // Additional event labels can be passed to asyncIterator creation
+            subscribe:  (parent, args) => pubsub.asyncIterator([POST_UPDATED]),
         },
     },
     Query: {
@@ -20,9 +25,10 @@ const resolvers = {
     },
     Mutation: {
         createDraft: (parent, args, context) => {
+            let generatedId = shortid.generate();
             const post = {
-                id: shortid.generate(),
-                title: args.title,
+                id: generatedId,
+                title: args.title + ' ' + generatedId,
                 content: args.content,
                 published: false,
             }
@@ -42,7 +48,8 @@ const resolvers = {
         },
         publish: (parent, args) => {
             const postIndex = posts.findIndex(post => post.id === args.id)
-            posts[postIndex].published = true
+            posts[postIndex].published = args.published
+            pubsub.publish(POST_UPDATED, { postAdded: posts[postIndex] });
             return posts[postIndex]
         },
     },

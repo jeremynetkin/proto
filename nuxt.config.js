@@ -9,7 +9,9 @@ module.exports = {
         */
     vuetify: {
         // Vuetify options
-        //  theme: { }
+        theme: {
+            primary: '#e67e22'
+        }
     },
     /*
    Apollo MODULE
