@@ -1,6 +1,5 @@
 const { InMemoryCache } = require('apollo-cache-inmemory');
 const memoryCache = new InMemoryCache();
-console.log(memoryCache);
 module.exports = {
 
     modules: ['@nuxtjs/apollo','@nuxtjs/vuetify'],
@@ -9,7 +8,9 @@ module.exports = {
         */
     vuetify: {
         // Vuetify options
-        //  theme: { }
+        theme: {
+            primary: '#e67e22'
+        }
     },
     /*
    Apollo MODULE

@@ -3,7 +3,8 @@ import {gql} from 'apollo-server-express'
 // Construct a schema, using GraphQL schema language
 const typeDefs = gql`
   type Subscription {
-    postAdded: Post
+    postAdded: Post,
+    postUpdated: Post
   }
   type Query {
     hello: String
@@ -20,7 +21,7 @@ const typeDefs = gql`
   type Mutation {
       createDraft(title: String!, content: String): Post
       deletePost(id: ID!): Post
-      publish(id: ID!): Post
+      publish(id: ID!, published: Boolean!): Post
     }
 `;
 
