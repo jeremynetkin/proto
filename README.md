@@ -1,3 +1,5 @@
 # proto
 
-Ceci est un fichier readme du proto
+In the words of Abraham Lincoln:
+
+> Pardon my French

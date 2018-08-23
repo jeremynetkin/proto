@@ -23,6 +23,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="28mleboncoin.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="29mai2018-foncieredesregions.fr">
         <serverdata>
           <mappings>
@@ -968,6 +975,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="formation-combo.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="forummanagementsiemens.com">
         <serverdata>
           <mappings>
@@ -1458,6 +1472,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="lorealsummercruise.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="loxambirthday.com">
         <serverdata>
           <mappings>
@@ -1739,6 +1760,13 @@
         </serverdata>
       </paths>
       <paths name="parcoursdelaforme.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="parisaeroport-startupday.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
