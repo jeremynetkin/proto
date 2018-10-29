@@ -79,6 +79,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="4l-trophy-2019.org">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="6fevrier.events.total.com">
         <serverdata>
           <mappings>
@@ -352,6 +359,27 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="bmw-acceleration2018.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bmw-brandstore-paris.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bmw-mondial2018.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="btslc2017">
         <serverdata>
           <mappings>
@@ -464,7 +492,21 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="colloque-risque-pays.com_bu">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="colloque-risqueroutierprofessionnel2017.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="commemoration-eckwersheim2018.fr">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -555,6 +597,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="convention-encadrement2018.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="convention-epicerie2017.com">
         <serverdata>
           <mappings>
@@ -570,6 +619,13 @@
         </serverdata>
       </paths>
       <paths name="conventionadm2017.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="conventionadm2018.fr">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -647,6 +703,13 @@
         </serverdata>
       </paths>
       <paths name="conventionspsh2017.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="conventiontransilien2018.evenements-sncf.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -828,6 +891,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="ep-hq-management-convention.events.total.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="ep-review.events.total.com">
         <serverdata>
           <mappings>
@@ -836,6 +906,13 @@
         </serverdata>
       </paths>
       <paths name="ep-top-management.events.total.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ep-topmanagement.events.total.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -885,6 +962,13 @@
         </serverdata>
       </paths>
       <paths name="eurovia-orlando2017.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="evenement.grandlyon.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -982,7 +1066,28 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="formation-sodexo-site-modele.netkin.events">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="forum-trust.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="forummanagementsiemens.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="freeandise.netkin.events">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -1094,6 +1199,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="grp-management-convention2018.events.total.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="grp-review.events.total.com">
         <serverdata>
           <mappings>
@@ -1144,6 +1256,13 @@
         </serverdata>
       </paths>
       <paths name="hd-devcon2018.events.total.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hdcampus-one-hse2018.events.total.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -1346,6 +1465,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="jeremy-dev-2.demo.netkin.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="jeremy-dev.demo.netkin.fr">
         <serverdata>
           <mappings>
@@ -1368,6 +1494,13 @@
         </serverdata>
       </paths>
       <paths name="jobdating-dcnsgroup.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jobdating-naval-group.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -1409,6 +1542,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="lacoste-gsm.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="lafollejourneespi.com">
         <serverdata>
           <mappings>
@@ -1423,7 +1563,21 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="lancement-tgvinoui.evenements-sncf.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="lancementplanstrategique-grouperatp.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="le-cabinet-dentaire-connecte.fr">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -1528,7 +1682,21 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="marathondeparis.se.com_bu">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="marketplacesummitbymirakl.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="micromaniazing-convention.fr">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -1556,6 +1724,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="mmpj-rencontres-maisons.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="mon-invitationvoyage.com">
         <serverdata>
           <mappings>
@@ -1571,6 +1746,13 @@
         </serverdata>
       </paths>
       <paths name="ms-lubricants-auto-ind2018.events.total.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ms-lubricants-convention2018.events.total.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -1682,6 +1864,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="nuitelectrique.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="old total review 264">
         <serverdata>
           <mappings>
@@ -1697,6 +1886,13 @@
         </serverdata>
       </paths>
       <paths name="openhouse.jcdecaux.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="operations.netkin.events">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -2004,6 +2200,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="rencontremanagers-sncf.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="rencontres-commerciales-bp-2018.evenements-groupebpce.fr">
         <serverdata>
           <mappings>
@@ -2130,7 +2333,21 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="seminaire-nouveaux-entrants-2018.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="seminaire-rh-2017.sncf.fr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="seminaireapc2018.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -2165,7 +2382,42 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="slc2019-bt.register-events.3ds.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="slc2019-vsemear.register-events.3ds.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="slmberlin2018.event.sodexo.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="slmorlando2018.event.sodexo.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="slmsantiago2018.event.sodexo.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="slmsingapore2018.event.sodexo.com">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -2222,6 +2474,13 @@
         </serverdata>
       </paths>
       <paths name="starsetmetiers2018.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="startupday.parisaeroport.fr">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -2368,6 +2627,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="tickets.afcon-2017.total.com.s6.netkin.io">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="top-niveau-diac-2016.com">
         <serverdata>
           <mappings>
@@ -2487,6 +2753,27 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="urw2018managementconvention.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="valeoleadersmeeeting2018.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="valeoleadersmeeting2018.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="visiteschantiers.bouygues-construction.com">
         <serverdata>
           <mappings>
@@ -2515,6 +2802,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="wafcon-2018.events.total.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="wearegroupeadecco.fr">
         <serverdata>
           <mappings>
@@ -2523,6 +2817,13 @@
         </serverdata>
       </paths>
       <paths name="weareorano2018.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wemi2017.fr">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

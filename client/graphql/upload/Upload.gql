@@ -1,0 +1,8 @@
+query {
+   uploads {
+     filename
+     path
+     mimetype
+     encoding
+   }
+ }

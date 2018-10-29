@@ -1,0 +1,8 @@
+query {
+   posts {
+     id
+     title
+     published
+     content
+   }
+ }

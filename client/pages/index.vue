@@ -6,8 +6,6 @@
                 proto 2
             </h1>
 
-
-            <!-- Tchat example -->
             <ApolloQuery
                     :query="require('../graphql/post/Post.gql')"
             >
@@ -34,7 +32,7 @@
 
                                 <v-list-tile-action v-if="post.published">
                                     <v-btn icon ripple @click="publishMessage(post,false)" color="warning"
-                                            dark>
+                                           dark>
                                         <v-icon color="white">block</v-icon>
                                     </v-btn>
                                 </v-list-tile-action>
@@ -75,19 +73,57 @@
                 </div>
             </ApolloQuery>
 
+            <br/>
+
+            <no-ssr>
+                <nk-upload></nk-upload>
+            </no-ssr>
+
+            <ApolloQuery
+                    :query="require('../graphql/upload/Upload.gql')"
+            >
+                <div slot-scope="{ result: { data } }">
+                    <template v-if="data">
+
+                        <v-list two-line subheader>
+                            <v-subheader inset>Images</v-subheader>
+
+                            <v-list-tile
+                                    v-for="upload of data.uploads"
+                                    :key="upload.filename"
+                            >
+
+                                <v-list-tile-content>
+                                    <v-list-tile-title>{{ upload.filename }}</v-list-tile-title>
+                                    <v-list-tile-sub-title>{{ upload.path }}</v-list-tile-sub-title>
+                                    <v-img :src="`upload.path`"></v-img>
+                                </v-list-tile-content>
+                            </v-list-tile>
+                        </v-list>
+
+                    </template>
+                </div>
+            </ApolloQuery>
+
         </div>
     </section>
 </template>
 
 <script>
+
     import AppLogo from '~/components/AppLogo.vue'
     import gql from 'graphql-tag'
     import NkCard from '~/components/ui/NkCard.vue'
+    import NkUpload from '~/components/NkUpload.vue'
+
 
     export default {
+        data: () => ({
+        }),
         components: {
             AppLogo,
-            NkCard
+            NkCard,
+            NkUpload
         },
         methods: {
             onPostAdded(previousResult, {subscriptionData}) {
@@ -98,7 +134,8 @@
                         subscriptionData.data.postAdded,
                     ],
                 }
-            },
+            }
+            ,
             deleteMessage(post) {
                 if (!confirm('Do you realy want to delete this message ?')) return;
                 this.$apollo.mutate({
@@ -138,7 +175,8 @@
                         store.writeQuery({query: postsQuery, data});
                     }
                 })
-            },
+            }
+            ,
             publishMessage(post, published) {
                 this.$apollo.mutate({
                     mutation: gql`
@@ -176,7 +214,8 @@
                     }
                 })
             }
-        },
+        }
+        ,
     }
 </script>
 
@@ -214,6 +253,7 @@
         color: red;
         cursor: pointer;
     }
+
 
 </style>
 

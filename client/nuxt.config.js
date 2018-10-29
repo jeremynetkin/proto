@@ -12,6 +12,9 @@ module.exports = {
             primary: '#e67e22'
         }
     },
+    css: [
+        //'vue2-dropzone/dist/vue2Dropzone.css'
+    ],
     /*
    Apollo MODULE
     */
@@ -22,25 +25,7 @@ module.exports = {
         authenticationType: 'Basic', // optional, default: 'Bearer'
         // required
         clientConfigs: {
-            default: {
-                // required
-                httpEndpoint: 'http://localhost:4000/graphql',
-                // optional
-                // See https://www.apollographql.com/docs/link/links/http.html#options
-                httpLinkOptions: {
-                    credentials: 'same-origin'
-                },
-                // You can use `wss` for secure connection (recommended in production)
-                // Use `null` to disable subscriptions
-                wsEndpoint: 'ws://localhost:4000/graphql', // optional
-                // LocalStorage token
-                tokenName: 'apollo-token', // optional
-                // Enable Automatic Query persisting with Apollo Engine
-                persisting: false, // Optional
-                // Use websockets for everything (no HTTP)
-                // You need to pass a `wsEndpoint` for this to work
-                websocketsOnly: false
-            }/*,
+            default: '~/plugins/apollo-config.js'/*,
             test: {
                 httpEndpoint: 'http://localhost:5000',
                 wsEndpoint: 'http://localhost:5000',

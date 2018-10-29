@@ -3,11 +3,12 @@ import { typeDefs } from './graphql/typeDefs.js'
 
 import express from 'express';
 import { createServer } from 'http';
-import { ApolloServer, gql } from 'apollo-server-express';
+import { ApolloServer, gql, makeExecutableSchema } from 'apollo-server-express';
+
+const schema = makeExecutableSchema({ typeDefs, resolvers });
 
 const server = new ApolloServer({
-    typeDefs,
-    resolvers,
+    schema,
     context: async ({ req, connection }) => {
         if (connection) {
             // check connection for metadata

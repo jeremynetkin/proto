@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3901e5fc-f0b0-43a5-b5c7-699efa3bc888" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/client/components/NkUpload.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/coverage/lcov.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/graphql/post/Post.gql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/graphql/upload/Upload.gql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/plugins/apollo-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/client/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/client/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.styl" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/app.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppLogo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/components/AppLogo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/components/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/NkCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/components/ui/NkCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/clover.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/coverage-final.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/coverage-final.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/block-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/block-navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/prettify.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/prettify.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/prettify.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/prettify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/sort-arrow-sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/sort-arrow-sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/sorter.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/coverage/lcov-report/sorter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov.info" beforeDir="false" afterPath="$PROJECT_DIR$/client/components/UploadButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql/post/Post.gql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql/post/PostAdded.gql" beforeDir="false" afterPath="$PROJECT_DIR$/client/graphql/post/PostAdded.gql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/layouts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/middleware/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/modules/vuetify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/plugins/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/my-alternative-apollo-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/plugins/vuetify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/graphql/resolvers.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/graphql/resolvers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/graphql/typeDefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/graphql/typeDefs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/static/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/client/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/store/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/test/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Post.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/test/Post.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,25 +63,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/index.vue">
+        <entry file="file://$PROJECT_DIR$/client/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="141" column="45" selection-start-line="141" selection-start-column="45" selection-end-line="141" selection-end-column="45" />
+            <state relative-caret-position="-1034">
+              <caret line="98" column="62" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
               <folding>
-                <element signature="e#3616#3662#0" expanded="true" />
+                <element signature="e#3834#3880#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Post.gql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/graphql/post/Post.gql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Upload.gql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/graphql/upload/Upload.gql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NkUpload.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/NkUpload.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+              <folding>
+                <element signature="e#244#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UploadButton.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/UploadButton.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="63" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resolvers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/graphql/resolvers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="99" column="44" lean-forward="true" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typeDefs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/graphql/typeDefs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -55,15 +162,36 @@
       <find>import</find>
       <find>export</find>
       <find>export const</find>
-      <find>shortid</find>
       <find>pubsub</find>
       <find>mess</find>
       <find>4</find>
       <find>console.log</find>
       <find>plugins</find>
       <find>stylus</find>
+      <find>eslint</find>
+      <find>graphql</find>
+      <find>googleapis</find>
+      <find>apolloclient</find>
+      <find>new ApolloClient</find>
+      <find>apollo-link-http</find>
+      <find>vue2-dropzone</find>
+      <find>NkCard</find>
+      <find>document</find>
+      <find>vue-upload-component</find>
+      <find>post</find>
+      <find>upload</find>
+      <find>apollo-upload-client</find>
+      <find>createReadStream</find>
+      <find>shortid</find>
+      <find>UPLOAD_DIR</find>
     </findStrings>
+    <replaceStrings>
+      <replace>_nuxt/</replace>
+    </replaceStrings>
     <dirStrings>
+      <dir>D:\test v2\vue\proto\dist\_nuxt</dir>
+      <dir>D:\test v2\vue\proto\dist</dir>
+      <dir>D:\test v2\vue\proto\client</dir>
       <dir>D:\test v2\vue\proto</dir>
     </dirStrings>
   </component>
@@ -77,23 +205,37 @@
         <option value="$PROJECT_DIR$/graphql/HelloWorld.gql" />
         <option value="$PROJECT_DIR$/graphql/message/DeleteMessage.gql" />
         <option value="$PROJECT_DIR$/server/index.php" />
-        <option value="$PROJECT_DIR$/server/index.js" />
         <option value="$PROJECT_DIR$/graphql/message/Messages.gql" />
-        <option value="$PROJECT_DIR$/server/main.js" />
         <option value="$PROJECT_DIR$/graphql/message/MessageAdded.gql" />
         <option value="$PROJECT_DIR$/graphql/post/AddPost.gql" />
-        <option value="$PROJECT_DIR$/server/graphql/typeDefs.js" />
-        <option value="$PROJECT_DIR$/server/graphql/resolvers.js" />
         <option value="$PROJECT_DIR$/graphql/post/PostAdded.gql" />
         <option value="$PROJECT_DIR$/components/ui/card.vue" />
-        <option value="$PROJECT_DIR$/pages/index.vue" />
         <option value="$PROJECT_DIR$/layouts/default.vue" />
         <option value="$PROJECT_DIR$/plugins/vuetify.js" />
         <option value="$PROJECT_DIR$/assets/app.styl" />
         <option value="$PROJECT_DIR$/components/ui/NkCard.vue" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/graphql/post/Post.gql" />
+        <option value="$PROJECT_DIR$/pages/index.vue" />
+        <option value="$PROJECT_DIR$/server/index.js" />
+        <option value="$PROJECT_DIR$/client/plugins/my-alternative-apollo-config.js" />
+        <option value="$PROJECT_DIR$/client/plugins/apollo-config.js" />
+        <option value="$PROJECT_DIR$/client/components/Upload.vue" />
+        <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/client/nuxt.config.js" />
+        <option value="$PROJECT_DIR$/client/components/file-upload.fake.service.js" />
+        <option value="$PROJECT_DIR$/client/components/UploadButton.vue" />
+        <option value="$PROJECT_DIR$/server/main.js" />
+        <option value="$PROJECT_DIR$/client/components/NkUpload.vue" />
+        <option value="$PROJECT_DIR$/server/graphql/typeDefs.js" />
+        <option value="$PROJECT_DIR$/client/graphql/upload/Upload.gql" />
+        <option value="$PROJECT_DIR$/client/pages/index.vue" />
+        <option value="$PROJECT_DIR$/server/graphql/resolvers.js" />
       </list>
     </option>
   </component>
@@ -110,20 +252,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/client/node_modules" />
     <handled-path value="$PROJECT_DIR$/server/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/client/package.json" />
       <path value="$PROJECT_DIR$/server/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="352" />
-    <option name="y" value="-10" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,6 +273,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,28 +284,59 @@
             <path>
               <item name="proto" type="b2602c69:ProjectViewProjectNode" />
               <item name="proto" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="proto" type="b2602c69:ProjectViewProjectNode" />
               <item name="proto" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="proto" type="b2602c69:ProjectViewProjectNode" />
               <item name="proto" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="C:/wamp/bin/php/php5.4.16/php.exe" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="C:/wamp/www/edge_v1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="D:\test v2\vue\proto\node_modules\eslint" />
@@ -172,13 +346,15 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test v2\vue\proto\client" />
+      <recent name="D:\test v2\vue\proto\graphql\message" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test v2\vue\proto\client\plugins" />
       <recent name="D:\test v2\vue\proto\server\graphql" />
       <recent name="D:\test v2\vue\proto\graphql\message" />
       <recent name="D:\test v2\vue\proto\graphql" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\test v2\vue\proto\graphql\message" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,7 +384,17 @@
       <workItem from="1533286231339" duration="11659000" />
       <workItem from="1533311281555" duration="5639000" />
       <workItem from="1534838882855" duration="1201000" />
-      <workItem from="1535010271078" duration="994000" />
+      <workItem from="1535010271078" duration="3499000" />
+      <workItem from="1535102223135" duration="1193000" />
+      <workItem from="1535367805202" duration="2584000" />
+      <workItem from="1536846737788" duration="4876000" />
+      <workItem from="1539096217222" duration="561000" />
+      <workItem from="1540212270127" duration="3966000" />
+      <workItem from="1540283604917" duration="717000" />
+      <workItem from="1540286884119" duration="100000" />
+      <workItem from="1540391725996" duration="7817000" />
+      <workItem from="1540476350421" duration="4360000" />
+      <workItem from="1540800912718" duration="17885000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/jeremynetkin/proto&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1534952768983</created>
@@ -221,7 +407,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50246000" />
+    <option name="totallyTimeSpent" value="96810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,10 +428,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1296875" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3296875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17395833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -255,11 +441,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="3" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -298,121 +484,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/jeremynetkin/proto&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/graphql/resolvers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/vuetify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/ui/NkCard.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/default.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/graphql/resolvers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/graphql/typeDefs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphql/post/PostAdded.gql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/graphql/resolvers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/graphql/typeDefs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -427,7 +498,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="28" selection-start-line="15" selection-start-column="3" selection-end-line="17" selection-end-column="28" />
@@ -443,7 +514,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graphql/HelloWorld.gql" />
-    <entry file="file://$PROJECT_DIR$/pages/README.md">
+    <entry file="file://$PROJECT_DIR$/client/pages/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -451,116 +522,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphql/post/MessageFragment.gql" />
-    <entry file="file://$PROJECT_DIR$/server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/my-alternative-apollo-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphql/post/AddPost.gql" />
     <entry file="file://$PROJECT_DIR$/graphql/post/DeletePost.gql" />
-    <entry file="file://$PROJECT_DIR$/graphql/post/Post.gql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/AppLogo.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-592" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphql/post/PostAdded.gql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/graphql/typeDefs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/graphql/resolvers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/default.vue">
+    <entry file="file://$PROJECT_DIR$/client/layouts/default.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/vuetify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/ui/NkCard.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app.styl">
+    <entry file="file://$PROJECT_DIR$/client/assets/app.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18079">
-          <caret line="10432" column="26" selection-start-line="10432" selection-start-column="26" selection-end-line="10432" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Post.test.js">
+    <entry file="file://$PROJECT_DIR$/client/test/Post.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
@@ -574,29 +553,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.nuxt/App.js">
+    <entry file="file://$PROJECT_DIR$/client/.nuxt/App.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/App.test.js">
+    <entry file="file://$PROJECT_DIR$/client/test/App.test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/vuetify.js">
+    <entry file="file://$PROJECT_DIR$/client/modules/vuetify.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
+    <entry file="file://$PROJECT_DIR$/client/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
+    <entry file="file://$PROJECT_DIR$/.idea/deployment.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="141" column="45" selection-start-line="141" selection-start-column="45" selection-end-line="141" selection-end-column="45" />
-          <folding>
-            <element signature="e#3616#3662#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -604,9 +580,193 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
-            <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/dist/_nuxt/manifest.d6b7edd47f13cc9cd847.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/dist/_nuxt/app.bada5d0f2f8f640143b0.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10520" column="70" selection-start-line="10520" selection-start-column="70" selection-end-line="10520" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/dist/_nuxt/vendor.5b70ed921b10ee1d32ed.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/AppLogo.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/graphql/post/PostAdded.gql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/apollo-upload-client/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="683">
+            <caret line="188" column="17" selection-start-line="188" selection-start-column="17" selection-end-line="188" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/plugins/mutation-link.js" />
+    <entry file="file://$PROJECT_DIR$/client/plugins/vuetify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vue2-dropzone/package.json" />
+    <entry file="file://$PROJECT_DIR$/client/node_modules/nuxt-dropzone/node_modules/vue2-dropzone/dist/vue2Dropzone.css" />
+    <entry file="file://$PROJECT_DIR$/client/node_modules/nuxt-dropzone/dropzone.css" />
+    <entry file="file://$PROJECT_DIR$/client/plugins/apollo-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/file-upload.fake.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/ui/NkCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/nuxt.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/graphql/typeDefs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/UploadButton.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/NkUpload.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="e#244#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/graphql/upload/Upload.gql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/graphql/post/Post.gql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1034">
+          <caret line="98" column="62" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+          <folding>
+            <element signature="e#3834#3880#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/graphql/resolvers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="99" column="44" lean-forward="true" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
