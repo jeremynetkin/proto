@@ -96,7 +96,7 @@
                                 <v-list-tile-content>
                                     <v-list-tile-title>{{ upload.filename }}</v-list-tile-title>
                                     <v-list-tile-sub-title>{{ upload.path }}</v-list-tile-sub-title>
-                                    <v-img :src="`upload.path`"></v-img>
+                                    <v-img src="..\..\server\uploads\mtoPUlizv-YodaDuel.jpg"></v-img>
                                 </v-list-tile-content>
                             </v-list-tile>
                         </v-list>

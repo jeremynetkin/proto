@@ -92,7 +92,7 @@ const resolvers = {
 const storeFS = ({ stream, filename }) => {
     mkdirp.sync(UPLOAD_DIR)
     const id = shortid.generate()
-    const path = __dirname +`/${UPLOAD_DIR}/${id}-${filename}`
+    const path = `${UPLOAD_DIR}/${id}-${filename}`
     return new Promise((resolve, reject) =>
         stream
             .on('error', error => {
